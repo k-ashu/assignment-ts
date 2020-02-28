@@ -1,1 +1,4 @@
 /node_modules
+/client/node_modules
+/client/.pnp
+clinet/.pnp.js
